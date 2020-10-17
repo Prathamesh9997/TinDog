@@ -1,2 +1,7 @@
 # TinDog
-Static website for tindog startup, designed and developed by using HTML, CSS and Bootstrap technologies.
+Static website for tindog startup.
+
+## Technologies used:
+* HTML5
+* CSS3
+* BOOTSTRAP4
